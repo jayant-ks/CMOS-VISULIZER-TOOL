@@ -1,0 +1,5 @@
+{
+  "name": "CMOS VLSI Logic Visualizer",
+  "description": "A CMOS VLSI design tool that simplifies Boolean expressions and generates transistor-level circuits and stick diagrams with engineering accuracy.",
+  "requestFramePermissions": []
+}
